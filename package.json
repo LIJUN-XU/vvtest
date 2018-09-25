@@ -1,0 +1,26 @@
+{
+  "name": "generator-vv",
+  "version": "1.0.0",
+  "description": "this is a vv-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LIJUN-XU/vvtest.git"
+  },
+  "keywords": [
+    "zxcvbnmA1"
+  ],
+  "author": "lijun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LIJUN-XU/vvtest/issues"
+  },
+  "homepage": "https://github.com/LIJUN-XU/vvtest#readme",
+  "dependencies": {
+    "yeoman-generator": "^3.1.1",
+    "yosay": "^2.0.2"
+  }
+}
